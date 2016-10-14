@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<opml version="1.0">
+  <head>
+    <title>Pocket Casts Feeds</title>
+  </head>
+  <body>
+    <outline text="feeds">
+      <outline type="rss" text="Neighbors" xmlUrl="http://neighborspodcast.libsyn.com/rss" />
+      <outline type="rss" text="Fragmented" xmlUrl="https://simplecast.com/podcasts/1684/rss" />
+      <outline type="rss" text="World Business Report" xmlUrl="http://www.bbc.co.uk/programmes/p02tb8vq/episodes/downloads.rss" />
+      <outline type="rss" text="Merge Conflict" xmlUrl="https://simplecast.com/podcasts/2117/rss" />
+      <outline type="rss" text="nerdy nocą" xmlUrl="http://nerdynoca.pl/feed/podcast" />
+      <outline type="rss" text="Topical" xmlUrl="https://podcasts.jellystyle.com/topical/rss" />
+      <outline type="rss" text="The Journal by Kevin Rose" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:2655632/sounds.rss" />
+      <outline type="rss" text="StarTalk Radio" xmlUrl="http://www.startalkradio.net/feed/shows/" />
+      <outline type="rss" text="Debug" xmlUrl="HTTP://feeds.feedburner.com/debugshow" />
+      <outline type="rss" text="Nocturne" xmlUrl="http://www.nocturnepodcast.org/feed/podcast/" />
+      <outline type="rss" text="Tech News Today (MP3)" xmlUrl="http://feeds.twit.tv/tnt.xml" />
+      <outline type="rss" text="The Context #androiddev" xmlUrl="https://raw.githubusercontent.com/artem-zinnatullin/TheContext-Podcast/master/feed.rss" />
+      <outline type="rss" text="Garbage" xmlUrl="http://garbage.fm/episodes.rss" />
+      <outline type="rss" text="Clockwise" xmlUrl="https://www.relay.fm/clockwise/feed" />
+      <outline type="rss" text="Foundation" xmlUrl="http://foundation.squealingrat.org/feed/" />
+      <outline type="rss" text="Cyber, cyber…" xmlUrl="https://www.cybsecurity.org/feed/podcast/" />
+      <outline type="rss" text="The Way I Heard It with Mike Rowe" xmlUrl="http://thewayiheardit.rsvmedia.com/rss/" />
+      <outline type="rss" text="Pragmatic" xmlUrl="http://engineered.network/pragmatic/feed" />
+      <outline type="rss" text="Xamarin Podcast" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:55118534/sounds.rss" />
+      <outline type="rss" text="Radiolab" xmlUrl="http://feeds.wnyc.org/radiolab" />
+      <outline type="rss" text="TechSNAP MP3" xmlUrl="http://feeds.feedburner.com/techsnapmp3" />
+      <outline type="rss" text="Świat w trzy minuty" xmlUrl="http://www.trzyminuty.com/feed/podcast/" />
+      <outline type="rss" text="Material" xmlUrl="https://www.relay.fm/material/feed" />
+      <outline type="rss" text="DEKOMPRESOR" xmlUrl="http://dekompresor.pl/itunes/dekompresor-master-feed.xml" />
+      <outline type="rss" text="Founders Talk" xmlUrl="http://feeds.5by5.tv/founderstalk" />
+      <outline type="rss" text="The Linux Action Show! MP3" xmlUrl="http://feeds.feedburner.com/TheLinuxActionShow" />
+      <outline type="rss" text=".NET Rocks!" xmlUrl="http://feeds.feedburner.com/netRocksFullMp3Downloads" />
+      <outline type="rss" text="Accidental Tech Podcast" xmlUrl="http://atp.fm/episodes?format=rss" />
+      <outline type="rss" text="Open Source Security Podcast" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:252514543/sounds.rss" />
+      <outline type="rss" text="Mobile Couch" xmlUrl="https://podcasts.jellystyle.com/mobilecouch/rss" />
+      <outline type="rss" text="The Changelog" xmlUrl="http://feeds.5by5.tv/changelog" />
+      <outline type="rss" text="BSD Now MP3" xmlUrl="http://feeds.feedburner.com/BsdNowMp3" />
+      <outline type="rss" text="The Blerg" xmlUrl="http://theblerg.net/podcast/rss" />
+      <outline type="rss" text="Ubuntu Podcast" xmlUrl="http://ubuntupodcast.org/feed/podcast" />
+      <outline type="rss" text="99% Invisible" xmlUrl="http://feeds.99percentinvisible.org/99percentinvisible?" />
+      <outline type="rss" text="Anxious Machine" xmlUrl="http://anxiousmachine.libsyn.com/rss" />
+      <outline type="rss" text="Security Now (MP3)" xmlUrl="http://leoville.tv/podcasts/sn.xml" />
+      <outline type="rss" text="Android Developers Backstage" xmlUrl="http://feeds.feedburner.com/blogspot/AndroidDevelopersBackstage" />
+      <outline type="rss" text="Re/code Decode, hosted by Kara Swisher" xmlUrl="http://feeds.feedburner.com/Recode-Decode" />
+      <outline type="rss" text="All About Android (MP3)" xmlUrl="http://feeds.twit.tv/aaa.xml" />
+      <outline type="rss" text="bsdtalk" xmlUrl="http://feeds.feedburner.com/Bsdtalk" />
+      <outline type="rss" text="The Moth" xmlUrl="http://feeds.feedburner.com/themothpodcast" />
+      <outline type="rss" text="Developer Tea" xmlUrl="http://feeds.feedburner.com/DeveloperTea" />
+      <outline type="rss" text="Developer On Fire" xmlUrl="http://developeronfire.com/rss.xml" />
+      <outline type="rss" text="Coding Blocks | Software and Web Programming / Security / Best Practices / Microsoft .NET" xmlUrl="http://www.codingblocks.net/podcast-feed.xml" />
+      <outline type="rss" text="Podcast – Software Engineering Daily" xmlUrl="http://softwareengineeringdaily.com/category/podcast/feed/" />
+      <outline type="rss" text="The Skeptics' Guide to the Universe" xmlUrl="http://www.theskepticsguide.org/feed/sgu" />
+      <outline type="rss" text="UX Podcast" xmlUrl="http://feeds.feedburner.com/uxpodcast" />
+      <outline type="rss" text="DevTalk" xmlUrl="http://devtalk.pl/feed" />
+      <outline type="rss" text="Front End Happy Hour" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:206137365/sounds.rss" />
+      <outline type="rss" text="CodeNewbie" xmlUrl="http://feeds.codenewbie.org/cnpodcast.xml" />
+      <outline type="rss" text="Waking Up with Sam Harris" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:59753170/sounds.rss" />
+    </outline>
+  </body>
+</opml>
