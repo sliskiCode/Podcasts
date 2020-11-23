@@ -5,10 +5,6 @@
   </head>
   <body>
     <outline text="feeds">
-      <outline type="rss" text="Neighbors" xmlUrl="http://neighborspodcast.libsyn.com/rss" />
-      <outline type="rss" text="Fragmented" xmlUrl="https://simplecast.com/podcasts/1684/rss" />
-      <outline type="rss" text="World Business Report" xmlUrl="http://www.bbc.co.uk/programmes/p02tb8vq/episodes/downloads.rss" />
-      <outline type="rss" text="Merge Conflict" xmlUrl="https://simplecast.com/podcasts/2117/rss" />
       <outline type="rss" text="nerdy nocą" xmlUrl="http://nerdynoca.pl/feed/podcast" />
       <outline type="rss" text="Topical" xmlUrl="https://podcasts.jellystyle.com/topical/rss" />
       <outline type="rss" text="The Journal by Kevin Rose" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:2655632/sounds.rss" />
