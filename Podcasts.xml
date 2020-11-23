@@ -8,10 +8,6 @@
       <outline type="rss" text="nerdy nocą" xmlUrl="http://nerdynoca.pl/feed/podcast" />
       <outline type="rss" text="Topical" xmlUrl="https://podcasts.jellystyle.com/topical/rss" />
       <outline type="rss" text="The Journal by Kevin Rose" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:2655632/sounds.rss" />
-      <outline type="rss" text="StarTalk Radio" xmlUrl="http://www.startalkradio.net/feed/shows/" />
-      <outline type="rss" text="Debug" xmlUrl="HTTP://feeds.feedburner.com/debugshow" />
-      <outline type="rss" text="Nocturne" xmlUrl="http://www.nocturnepodcast.org/feed/podcast/" />
-      <outline type="rss" text="Tech News Today (MP3)" xmlUrl="http://feeds.twit.tv/tnt.xml" />
       <outline type="rss" text="The Context #androiddev" xmlUrl="https://raw.githubusercontent.com/artem-zinnatullin/TheContext-Podcast/master/feed.rss" />
       <outline type="rss" text="Garbage" xmlUrl="http://garbage.fm/episodes.rss" />
       <outline type="rss" text="Clockwise" xmlUrl="https://www.relay.fm/clockwise/feed" />
